@@ -1,0 +1,13 @@
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\bin\Debug\netcoreapp3.1\AsociatividadDomain.deps.json
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\bin\Debug\netcoreapp3.1\AsociatividadDomain.runtimeconfig.json
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\bin\Debug\netcoreapp3.1\AsociatividadDomain.runtimeconfig.dev.json
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\bin\Debug\netcoreapp3.1\AsociatividadDomain.dll
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\bin\Debug\netcoreapp3.1\AsociatividadDomain.pdb
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.dll
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.pdb
+C:\Users\ADMIN\source\repos\AsociatividadAPI\AsociatividadDomain\obj\Debug\netcoreapp3.1\AsociatividadDomain.genruntimeconfig.cache
